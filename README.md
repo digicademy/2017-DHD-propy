@@ -12,6 +12,6 @@ Erklärung BDD: Die Idee des BDD ist, Anforderungen an die geplante Applikation 
 
 ### Dominik Kasper, Max Grüntgens
 
-Slides under https://github.com/digicademy/2017-DHD-propy
+Slides under http://digicademy.github.io/2017-DHD-propy
 
 Released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), Dominik Kasper, Max Grüntgens (Akademie der Wissenschaften und der Literatur | Mainz)
